@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LibVoiture/LibVoiture.csproj" />
+  <Project Path="Réservoire/Réservoire.csproj" />
+  <Project Path="WindowsFormsControlLibrary1/FrmMenu.csproj" Id="eedd78f8-d716-4699-a1ac-dbf2d5c1c865" />
+  <Project Path="winVoiture/winVoiture.csproj" Id="74dcde1f-160f-4678-890a-17da7f686af9" />
+</Solution>
