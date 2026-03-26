@@ -1,0 +1,11 @@
+C:\Users\kewen\source\repos\Réservoire\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.deps.json
+C:\Users\kewen\source\repos\Réservoire\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.dll
+C:\Users\kewen\source\repos\Réservoire\ClassLibrary1\bin\Debug\net10.0\ClassLibrary1.pdb
+C:\Users\kewen\source\repos\Réservoire\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kewen\source\repos\Réservoire\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\kewen\source\repos\Réservoire\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.AssemblyInfo.vb
+C:\Users\kewen\source\repos\Réservoire\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.vbproj.CoreCompileInputs.cache
+C:\Users\kewen\source\repos\Réservoire\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.dll
+C:\Users\kewen\source\repos\Réservoire\ClassLibrary1\obj\Debug\net10.0\refint\ClassLibrary1.dll
+C:\Users\kewen\source\repos\Réservoire\ClassLibrary1\obj\Debug\net10.0\ClassLibrary1.pdb
+C:\Users\kewen\source\repos\Réservoire\ClassLibrary1\obj\Debug\net10.0\ref\ClassLibrary1.dll
