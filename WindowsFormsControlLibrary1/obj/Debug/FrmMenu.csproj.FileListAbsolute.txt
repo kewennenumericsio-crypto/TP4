@@ -1,0 +1,8 @@
+C:\Users\kewen\source\repos\Réservoire\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\kewen\source\repos\Réservoire\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\kewen\source\repos\Réservoire\WindowsFormsControlLibrary1\obj\Debug\FrmMenu.csproj.AssemblyReference.cache
+C:\Users\kewen\source\repos\Réservoire\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.UserControl1.resources
+C:\Users\kewen\source\repos\Réservoire\WindowsFormsControlLibrary1\obj\Debug\FrmMenu.csproj.GenerateResource.cache
+C:\Users\kewen\source\repos\Réservoire\WindowsFormsControlLibrary1\obj\Debug\FrmMenu.csproj.CoreCompileInputs.cache
+C:\Users\kewen\source\repos\Réservoire\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\kewen\source\repos\Réservoire\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb
